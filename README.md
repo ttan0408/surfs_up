@@ -14,4 +14,6 @@ From this table, the max temp in Oahu in June is 85 F, min temp 64 F and the mea
 
 Similiarly extracting data from sqlite database we have around 1570 data collection for December temperature. When looking at this table W.Avy and us are very excited because the the max temp in Oahu in December is 83 F, min temp 56 F and the mean is 71 F which is not significant different from June and support for the idea of the year-round surf and ice cream shop business. You can see the summary table list below :
 
+https://github.com/ttan0408/surfs_up/blob/main/December_Statistic.PNG
 
+We are ready to submit the idea and the analysis code to investors. The link for the code is locate below : 
