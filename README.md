@@ -17,3 +17,5 @@ Similiarly extracting data from sqlite database we have around 1570 data collect
 https://github.com/ttan0408/surfs_up/blob/main/December_Statistic.PNG
 
 We are ready to submit the idea and the analysis code to investors. The link for the code is locate below : 
+
+https://github.com/ttan0408/surfs_up/blob/main/SurfsUp_Challenge.ipynb
